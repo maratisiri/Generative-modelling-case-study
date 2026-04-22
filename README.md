@@ -11,3 +11,4 @@ Datasets used:
 - QuickDraw (pizza sketches)
 
 The code includes model training, evaluation, and visualisation of generated outputs.
+This code was developed as part of the Advanced Research Topics in Data Science module.
